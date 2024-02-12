@@ -17,5 +17,17 @@ namespace Calculator
                 value += str;
             InputValuesTextBox.Text = value;
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Form2 MinForm = new Form2();
+            MinForm.Show();
+            this.Hide();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
