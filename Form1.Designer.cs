@@ -76,28 +76,28 @@
             resources.ApplyResources(Button1, "Button1");
             Button1.Name = "Button1";
             Button1.UseVisualStyleBackColor = true;
-            Button1.Click += Button1_Click;
+            Button1.Click += Button_Click;
             // 
             // Button2
             // 
             resources.ApplyResources(Button2, "Button2");
             Button2.Name = "Button2";
             Button2.UseVisualStyleBackColor = true;
-            Button2.Click += Button2_Click;
+            Button2.Click += Button_Click;
             // 
             // ButtonMultiply
             // 
             resources.ApplyResources(ButtonMultiply, "ButtonMultiply");
             ButtonMultiply.Name = "ButtonMultiply";
             ButtonMultiply.UseVisualStyleBackColor = true;
-            ButtonMultiply.Click += ButtonMultiply_Click;
+            ButtonMultiply.Click += Button_Click;
             // 
             // Button3
             // 
             resources.ApplyResources(Button3, "Button3");
             Button3.Name = "Button3";
             Button3.UseVisualStyleBackColor = true;
-            Button3.Click += Button3_Click;
+            Button3.Click += Button_Click;
             // 
             // ButtonReset
             // 
@@ -105,84 +105,84 @@
             ButtonReset.BackColor = Color.LightCoral;
             ButtonReset.Name = "ButtonReset";
             ButtonReset.UseVisualStyleBackColor = false;
-            ButtonReset.Click += ButtonReset_Click;
+            ButtonReset.Click += Button_Click;
             // 
             // Button4
             // 
             resources.ApplyResources(Button4, "Button4");
             Button4.Name = "Button4";
             Button4.UseVisualStyleBackColor = true;
-            Button4.Click += Button4_Click;
+            Button4.Click += Button_Click;
             // 
             // Button5
             // 
             resources.ApplyResources(Button5, "Button5");
             Button5.Name = "Button5";
             Button5.UseVisualStyleBackColor = true;
-            Button5.Click += Button5_Click;
+            Button5.Click += Button_Click;
             // 
             // Button6
             // 
             resources.ApplyResources(Button6, "Button6");
             Button6.Name = "Button6";
             Button6.UseVisualStyleBackColor = true;
-            Button6.Click += Button6_Click;
+            Button6.Click += Button_Click;
             // 
             // ButtonPlus
             // 
             resources.ApplyResources(ButtonPlus, "ButtonPlus");
             ButtonPlus.Name = "ButtonPlus";
             ButtonPlus.UseVisualStyleBackColor = true;
-            ButtonPlus.Click += ButtonPlus_Click;
+            ButtonPlus.Click += Button_Click;
             // 
             // button7
             // 
             resources.ApplyResources(button7, "button7");
             button7.Name = "button7";
             button7.UseVisualStyleBackColor = true;
-            button7.Click += button7_Click;
+            button7.Click += Button_Click;
             // 
             // Button8
             // 
             resources.ApplyResources(Button8, "Button8");
             Button8.Name = "Button8";
             Button8.UseVisualStyleBackColor = true;
-            Button8.Click += Button8_Click;
+            Button8.Click += Button_Click;
             // 
             // Button9
             // 
             resources.ApplyResources(Button9, "Button9");
             Button9.Name = "Button9";
             Button9.UseVisualStyleBackColor = true;
-            Button9.Click += Button9_Click;
+            Button9.Click += Button_Click;
             // 
             // ButtonMinus
             // 
             resources.ApplyResources(ButtonMinus, "ButtonMinus");
             ButtonMinus.Name = "ButtonMinus";
             ButtonMinus.UseVisualStyleBackColor = true;
-            ButtonMinus.Click += ButtonMinus_Click;
+            ButtonMinus.Click += Button_Click;
             // 
             // ButtonResult
             // 
             resources.ApplyResources(ButtonResult, "ButtonResult");
             ButtonResult.Name = "ButtonResult";
             ButtonResult.UseVisualStyleBackColor = true;
-            ButtonResult.Click += ButtonResult_Click;
+            ButtonResult.Click += Button_Click;
             // 
             // Button0
             // 
             resources.ApplyResources(Button0, "Button0");
             Button0.Name = "Button0";
             Button0.UseVisualStyleBackColor = true;
-            Button0.Click += Button0_Click;
+            Button0.Click += Button_Click;
             // 
             // ButtonDivide
             // 
             resources.ApplyResources(ButtonDivide, "ButtonDivide");
             ButtonDivide.Name = "ButtonDivide";
             ButtonDivide.UseVisualStyleBackColor = true;
-            ButtonDivide.Click += ButtonDivide_Click;
+            ButtonDivide.Click += Button_Click;
             // 
             // InputValuesTextBox
             // 

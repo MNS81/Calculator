@@ -143,7 +143,7 @@
     <value>3, 4, 3, 4</value>
   </data>
   <data name="Button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 39</value>
+    <value>76, 38</value>
   </data>
   <data name="Button1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -176,7 +176,7 @@
     <value>3, 4, 3, 4</value>
   </data>
   <data name="Button2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 39</value>
+    <value>76, 38</value>
   </data>
   <data name="Button2.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -203,13 +203,13 @@
     <value>Segoe UI, 15.75pt, style=Bold</value>
   </data>
   <data name="ButtonMultiply.Location" type="System.Drawing.Point, System.Drawing">
-    <value>257, 153</value>
+    <value>257, 150</value>
   </data>
   <data name="ButtonMultiply.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="ButtonMultiply.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 41</value>
+    <value>77, 40</value>
   </data>
   <data name="ButtonMultiply.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -242,7 +242,7 @@
     <value>3, 4, 3, 4</value>
   </data>
   <data name="Button3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 39</value>
+    <value>76, 38</value>
   </data>
   <data name="Button3.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -275,7 +275,7 @@
     <value>3, 4, 3, 4</value>
   </data>
   <data name="ButtonReset.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 39</value>
+    <value>77, 38</value>
   </data>
   <data name="ButtonReset.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -302,13 +302,13 @@
     <value>Segoe UI, 15.75pt, style=Bold</value>
   </data>
   <data name="Button4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 55</value>
+    <value>5, 54</value>
   </data>
   <data name="Button4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="Button4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 39</value>
+    <value>76, 38</value>
   </data>
   <data name="Button4.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -335,13 +335,13 @@
     <value>Segoe UI, 15.75pt, style=Bold</value>
   </data>
   <data name="Button5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>89, 55</value>
+    <value>89, 54</value>
   </data>
   <data name="Button5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="Button5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 39</value>
+    <value>76, 38</value>
   </data>
   <data name="Button5.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -368,13 +368,13 @@
     <value>Segoe UI, 15.75pt, style=Bold</value>
   </data>
   <data name="Button6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>173, 55</value>
+    <value>173, 54</value>
   </data>
   <data name="Button6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="Button6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 39</value>
+    <value>76, 38</value>
   </data>
   <data name="Button6.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -404,13 +404,13 @@
     <value>MiddleLeft</value>
   </data>
   <data name="ButtonPlus.Location" type="System.Drawing.Point, System.Drawing">
-    <value>257, 55</value>
+    <value>257, 54</value>
   </data>
   <data name="ButtonPlus.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="ButtonPlus.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 39</value>
+    <value>77, 38</value>
   </data>
   <data name="ButtonPlus.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -437,13 +437,13 @@
     <value>Segoe UI, 15.75pt, style=Bold</value>
   </data>
   <data name="button7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 104</value>
+    <value>5, 102</value>
   </data>
   <data name="button7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="button7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 39</value>
+    <value>76, 38</value>
   </data>
   <data name="button7.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -470,13 +470,13 @@
     <value>Segoe UI, 15.75pt, style=Bold</value>
   </data>
   <data name="Button8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>89, 104</value>
+    <value>89, 102</value>
   </data>
   <data name="Button8.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="Button8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 39</value>
+    <value>76, 38</value>
   </data>
   <data name="Button8.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -503,13 +503,13 @@
     <value>Segoe UI, 15.75pt, style=Bold</value>
   </data>
   <data name="Button9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>173, 104</value>
+    <value>173, 102</value>
   </data>
   <data name="Button9.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="Button9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 39</value>
+    <value>76, 38</value>
   </data>
   <data name="Button9.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -536,13 +536,13 @@
     <value>Segoe UI, 15.75pt, style=Bold</value>
   </data>
   <data name="ButtonMinus.Location" type="System.Drawing.Point, System.Drawing">
-    <value>257, 104</value>
+    <value>257, 102</value>
   </data>
   <data name="ButtonMinus.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="ButtonMinus.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 39</value>
+    <value>77, 38</value>
   </data>
   <data name="ButtonMinus.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -569,13 +569,13 @@
     <value>Segoe UI, 15.75pt, style=Bold</value>
   </data>
   <data name="ButtonResult.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 153</value>
+    <value>5, 150</value>
   </data>
   <data name="ButtonResult.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="ButtonResult.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 41</value>
+    <value>76, 40</value>
   </data>
   <data name="ButtonResult.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -602,13 +602,13 @@
     <value>Segoe UI, 15.75pt, style=Bold</value>
   </data>
   <data name="Button0.Location" type="System.Drawing.Point, System.Drawing">
-    <value>89, 153</value>
+    <value>89, 150</value>
   </data>
   <data name="Button0.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="Button0.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 41</value>
+    <value>76, 40</value>
   </data>
   <data name="Button0.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -635,13 +635,13 @@
     <value>Segoe UI, 15.75pt, style=Bold</value>
   </data>
   <data name="ButtonDivide.Location" type="System.Drawing.Point, System.Drawing">
-    <value>173, 153</value>
+    <value>173, 150</value>
   </data>
   <data name="ButtonDivide.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="ButtonDivide.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 41</value>
+    <value>76, 40</value>
   </data>
   <data name="ButtonDivide.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -671,7 +671,7 @@
     <value>4</value>
   </data>
   <data name="tableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>339, 200</value>
+    <value>339, 196</value>
   </data>
   <data name="tableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -703,9 +703,6 @@
   <data name="InputValuesTextBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
-  <data name="InputValuesTextBox.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
-    <value>Yes</value>
-  </data>
   <data name="InputValuesTextBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>324, 43</value>
   </data>
@@ -731,7 +728,7 @@
     <value>7, 15</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>351, 272</value>
+    <value>351, 268</value>
   </data>
   <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 9pt, style=Bold</value>
